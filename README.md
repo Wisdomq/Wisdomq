@@ -51,7 +51,7 @@ I enjoy solving hard problems using AI, especially in domains where technology d
 - Backend: Python (Flask)  
 - Frontend: Minimal React dashboard  
 
-📂 Repo: (to be uploaded)
+📂 Repo: (https://github.com/Wisdomq/coin-locker-system)
 
 ---
 
